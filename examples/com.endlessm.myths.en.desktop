@@ -1,0 +1,35 @@
+[Desktop Entry]
+DBusActivatable=true
+X-Endless-SplashBackground=com.endlessm.myths.en.jpg
+Comment[hi]=दुनिया भर की पौराणिक कथाएं और किंवदंती
+Name[fr]=Mythes & Légendes
+Name[de]=Mythen und Legenden
+Name[th]=ปรัมปรา & ตำนาน
+Name[id]=Mitos & Legenda
+Name[pt_BR]=Mitos e Lendas
+Comment[id]=Mitos dan legenda dari seluruh dunia
+Comment[ro]=Mituri si Legende din toata lumea
+Version=1.0
+Name[hi]=पौराणिक कथाएं और किंवदंती
+Name[ro]=Mituri si Legende
+Comment[vi]=Thần thoại và truyền thuyết trên khắp thế giới
+Comment[es]=Mitos y leyendas de todo el mundo
+Name[vi]=Thần thoại & Truyền thuyết
+Comment[ar]=خرافات وأساطير من جميع أنحاء العالم
+Name[ar]=خرافات وأساطير
+Name=Myths & Legends
+X-Endless-LaunchMaximized=true
+Comment[th]=ตำนานและปรัมปราจากทั่วโลก
+Exec=com.endlessm.myths.en
+Comment=Myths and legends from around the world
+Name[es]=Mitos y leyendas
+Comment[zh_CN]=来自世界各地的神话与传说
+Name[zh_CN]=神话&传说
+Name[bn]=পুরাণ ও কিংবদন্তী
+Comment[fr]=Mythes et légendes du monde entier
+Type=Application
+Icon=com.endlessm.myths.en
+StartupNotify=true
+Comment[pt_BR]=Mitos e lendas de todo o mundo
+Comment[bn]=সারা পৃথিবীর পৌরাণিক গল্প ও কিংবদন্তীসমূহ
+

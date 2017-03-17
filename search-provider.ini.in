@@ -1,0 +1,5 @@
+[Shell Search Provider]
+DesktopId={{app_id}}.desktop
+BusName=com.endlessm.EknServices.SearchProviderV1
+ObjectPath=/com/endlessm/EknServices/SearchProviderV1/{{object_path}}
+Version=2

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<components version="0.8" origin="xdg-app">
+
+  <component type="desktop">
+
+    <id>com.endlessm.myths.en.desktop</id>
+    <metadata_license>CC0</metadata_license>
+    <project_license>GPL-3.0+</project_license>
+
+    <kudos><kudo>GnomeSoftware::popular</kudo></kudos>
+
+    <categories>
+        <category>Education</category><category>Reference</category><category>Family</category>
+    </categories>
+
+    <name>Myths &amp; Legends</name>
+
+    <summary>Myths and legends from around the world</summary>
+
+    <description><p>Do you like reading myths, legends and scary stories? This app has some from all around the world! From Mayan legends to popular Japanese myths, and scary stories, you're sure to find something that will interest you. Read all about the creatures, myths, legends, and fables that have shaped cultures of the past and present all over the world!</p></description>
+
+    <metadata>
+        <value key="GnomeSoftware::popular-background">https://d3lapyynmdp1i9.cloudfront.net/thumbnails/com.endlessm.myths.en/com.endlessm.myths-thumb.jpg</value>
+    </metadata>
+
+    <icon height="64" width="64" type="cached">64x64/com.endlessm.myths.en.png</icon>
+
+    <url type="homepage">https://endlessm.com</url>
+    <project_group>GNOME</project_group>
+
+  </component>
+
+</components>

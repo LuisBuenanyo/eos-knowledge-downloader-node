@@ -1,0 +1,17 @@
+{
+  "app_id": "com.endlessm.myths.en",
+  "icon": "icon.png",
+  "desktop": "com.endlessm.myths.en.desktop",
+  "app_data": "appdata.xml",
+  "app_assets": [
+    {
+      "path": "titleImage",
+      "download_uri": "https://avatars2.githubusercontent.com/u/1389937?v=3&s=400"
+    },
+    {
+      "path": "backgroundHome"
+    }
+  ],
+  "content_manifest": "https://subscriptions.prod.soma.endless-cloud.com/v1/a82915cbde270d773ddd3d89246daaa7990b18b5f80913ac3a16f2c520d0f494/manifest.json",
+  "disable_subscription_updates": true
+}

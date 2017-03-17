@@ -1,0 +1,38 @@
+{
+  "name": "eos-knowledge-downloader",
+  "version": "0.0.0",
+  "description": "A small utility for downloading eos knowledge content",
+  "bin": {
+    "eos-knowledge-downloader": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endlessm/eos-knowledge-downloader-node.git"
+  },
+  "keywords": [
+    "flatpak"
+  ],
+  "author": "Matt Watson <mattdangerw@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/endlessm/eos-knowledge-downloader-node/issues"
+  },
+  "homepage": "https://github.com/endlessm/eos-knowledge-downloader-node#readme",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "es6-promisify": "^5.0.0",
+    "fs-extra": "^0.30.0",
+    "mustache": "^2.3.0",
+    "request": "^2.81.0",
+    "yargs": "^6.6.0"
+  },
+  "devDependencies": {
+    "standard": "^8.3.0"
+  },
+  "scripts": {
+    "test": "standard"
+  }
+}
